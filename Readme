@@ -1,7 +1,5 @@
 # Amazon Prime Performance Report
 
-![Amazon Prime Report Preview](report_preview.png)
-
 ## Overview
 
 This repository contains a comprehensive report on the performance and key metrics of Amazon Prime, Amazon's premium subscription service. The report is designed to provide insights into user engagement, content consumption, financial data, and customer satisfaction related to Amazon Prime.
@@ -60,9 +58,6 @@ To access the Amazon Prime Performance Report, follow these steps:
 
 - Data visualization tool (e.g., Power BI, Tableau) for report viewing and customization.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Feedback and Contributions
 
@@ -70,7 +65,7 @@ We value feedback, bug reports, and contributions from the community. If you hav
 
 ## Author
 
-[Your Name]
+Pratik Shetake
 
 ## Acknowledgments
 
